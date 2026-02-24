@@ -5,3 +5,6 @@ def rec(n):
 
 def rec1(n):
     pass
+
+def rec2(b):
+    pass
