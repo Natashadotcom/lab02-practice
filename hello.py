@@ -9,3 +9,4 @@ def rec1(n):
 
 def rec2(b):
     pass
+print("Git pull and git push")
